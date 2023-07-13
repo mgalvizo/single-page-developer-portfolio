@@ -1127,6 +1127,9 @@ h6 {
             text-align: left;
 
             h2 {
+                font-size: var(--heading-xl-fsz);
+                line-height: var(--heading-xl-lht);
+                letter-spacing: var(--heading-xl-ls);
                 margin-bottom: var(--web-margin-xl);
             }
 
@@ -1197,7 +1200,7 @@ h6 {
         background-color: transparent;
         color: inherit;
         font-family: inherit;
-        font-size: inherit;
+        font-size: var(--body-fsz-s);
         border-bottom: 1px solid var(--white);
 
         &::placeholder {
