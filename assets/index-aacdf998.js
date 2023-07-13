@@ -348,6 +348,10 @@ h6 {
     color: var(--white);
 }
 
+#root {
+    overflow-x: hidden;
+}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
