@@ -846,6 +846,10 @@ h6 {
                 var(--web-padding-l) + var(--web-padding-xl2) * 3
             );
 
+            header {
+                margin-bottom: calc(var(--web-margin-xl2) * 2);
+            }
+
             h2 {
                 font-size: var(--heading-xl-fsz);
                 line-height: var(--heading-xl-lht);
