@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Links
 
--   [Solution URL](https://your-solution-url.com)
+-   [Solution URL](https://www.frontendmentor.io/solutions/developer-portfolio-using-react-and-typescript-5oTS93JpNv)
 -   [Live Site URL](https://mgalvizo.github.io/single-page-developer-portfolio/)
 
 ## My process
