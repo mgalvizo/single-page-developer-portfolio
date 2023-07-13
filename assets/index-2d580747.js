@@ -889,7 +889,7 @@ h6 {
             font-size: var(--heading-l-fsz);
             line-height: var(--heading-l-lht);
             letter-spacing: -1.5px;
-            margin-bottom: var(--web-margin-s);
+            margin-bottom: calc(var(--web-margin-xs) + var(--web-margin-s));
         }
     }
 `,y1=({skill:e})=>{const{skill:t,experience:n}=e;return P.jsxs(g1,{children:[P.jsx("h3",{children:t}),P.jsx("p",{children:n})]})},v1=()=>{const e=i1.map(t=>{const{id:n}=t;return P.jsx(y1,{skill:t},n)});return P.jsx(m1,{children:e})},w1=ze.ul`
