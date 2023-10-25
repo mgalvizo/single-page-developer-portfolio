@@ -541,9 +541,11 @@ h6 {
 
     // 768px
     @media only screen and (min-width: 48em) {
-        font-size: var(--heading-m-fsz);
-        line-height: var(--heading-m-lht);
-        letter-spacing: -0.444px;
+        h1 {
+            font-size: var(--heading-m-fsz);
+            line-height: var(--heading-m-lht);
+            letter-spacing: -0.444px;
+        }
     }
 `,b0=U.div``,$0=U.section`
     max-width: 568px;
